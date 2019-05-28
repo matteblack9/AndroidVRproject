@@ -128,7 +128,7 @@
     <string name="stroke_width">Stroke Width</string>
     <string name="swipe">\u2190 Swipe \u2192</string>
     <string name="switch_image">Switch Image</string>
-    <string name="tags_demo_label">Tags</string>
+    <string name="tags_demo_label">Joystick mode</string>
     <string name="tags_demo_description">Demonstrates how to get and set tags on API objects.</string>
     <string name="tags_demo_map_description">Map with a circle, ground overlay, marker, polygon and polyline.</string>
     <string name="tap_instructions">Tap or long press on the map</string>
@@ -213,7 +213,7 @@
     <string name="street_view_panorama_events_demo_description">Standard Street View Panorama with event handling.</string>
     <string name="street_view_panorama_events_demo_label">Street View Panorama events</string>
     <string name="street_view_panorama_navigation_demo_description">Street View Panorama with programmatic navigation.</string>
-    <string name="street_view_panorama_navigation_demo_label">Street View Panorama navigation</string>
+    <string name="street_view_panorama_navigation_demo_label">VR mode</string>
     <string name="street_view_panorama_options_demo_description">Street View Panorama with toggles for options.</string>
     <string name="street_view_panorama_options_demo_label">Street View Panorama options</string>
     <string name="street_view_panorama_view_demo_description">Standard Street View Panorama using a View.</string>
