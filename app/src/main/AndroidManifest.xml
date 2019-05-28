@@ -49,7 +49,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB4aDGZC7N-6Z0mz8Q_XVbo-I8X-_vQfpM" />
+            android:value="*********" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
