@@ -1,13 +1,9 @@
-Google Maps Android API Demos
+구글 안드로이드 VR구현 프로젝트
 ===================================
 
-These are demos for the [Google Maps Android API v2](https://developers.google.com/maps/documentation/android-api/)
-in the Java programming language.
-They demonstrate most of the features available in the API.
-
-This app was written for a minSdk of 15 and the v4 support library, but it can be easily adapted to
-use native functionality instead.
-(For example replacing ``SupportMapFragment`` with ``MapFragment``.)
+Non-VR with gyrosensor 모드
+VR with google CardBoard 모드
+Control with joystick 모드
 
 Pre-requisites
 --------------
