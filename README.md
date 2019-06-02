@@ -17,36 +17,20 @@ Pre-requisites
 Getting Started
 ---------------
 
-This sample use the Gradle build system.
+Google Maps API키를 발급 받으세요.
+안드로이드 버전 16이상부터 지원합니다.
 
-First download the samples by cloning this repository or downloading an archived
-snapshot. (See the options at the top of the page.)
-
-In Android Studio, use "Open an existing Android Studio project".
-Next select the ApiDemos/java/ directory that you downloaded from this repository.
-If prompted for a gradle configuration accept the default settings. 
-
-Alternatively use the "gradlew build" command to build the project directly.
-
-Add your API key to the file `debug/values/google_maps_api.xml`.
-It's pulled from there into your app's `AndroidManifest.xml` file.
-See the [quick guide to getting an API key](https://developers.google.com/maps/documentation/android-api/signup).
 
 Support
 -------
 
 - Stack Overflow: https://stackoverflow.com/questions/tagged/android+google-maps
 
-If you have discovered an issue with the Google Maps Android API v2, please see
+구글맵에 API 사용 관련해서 문제점이 있다면 여기를 참고하세요.
 the resources here: https://developers.google.com/maps/documentation/android-api/support
 
-If you've found an error in these samples, please file an issue:
-https://github.com/googlemaps/android-samples/issues
-
-Patches are encouraged, and may be submitted according to the instructions in
-CONTRIBUTING.md.
-
-![Analytics](https://ga-beacon.appspot.com/UA-12846745-20/android-samples-apidemos/readme?pixel)
+사용시 문제점이 있으면 uiucpass@gmail.com 으로 문의 부탁드립니다.
+개선은 언제나 환영입니다. 많은 Pull & request 부탁드립니다.
 
 License
 -------
