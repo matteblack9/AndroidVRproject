@@ -34,5 +34,7 @@ the resources here: https://developers.google.com/maps/documentation/android-api
 
 License
 -------
+AndroidVRproject is licensed under the
 
-Please refer to the [LICENSE](https://github.com/googlemaps/android-samples/blob/master/LICENSE) at the root of this repo.
+Apache License 2.0
+A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
